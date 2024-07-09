@@ -1,1 +1,0 @@
-import{a1 as o}from"./dZ-6rLY2.js";const r=()=>o("workout",()=>[{name:"løft armene",durationInSec:30},{name:"bøj forover",durationInSec:28},{name:"bøj forover 2",durationInSec:30},{name:"bøj forover 3",durationInSec:30}]);export{r as u};
